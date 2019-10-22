@@ -1,0 +1,7 @@
+Import database
+
+Open Netbeans
+
+RUN,...
+
+GOTO HELL!!
